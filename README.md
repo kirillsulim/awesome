@@ -37,9 +37,13 @@
  * [JS right way](http://jstherightway.org/)
  * [HTML&CSS right way](http://htmlcsstherightway.org/)
  * [pluralsight.com](https://www.pluralsight.com/)
+ * [udacity](https://www.udacity.com/)
+ * [coursera](https://www.coursera.org/)
+ * [URFU comp courses](http://courses.imkn.urfu.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
  
 ### Exercises
  * [http://cryptopals.com/](http://cryptopals.com/)
+ * [CodeKata](http://codekata.com/)
  
  
 ## Utils
@@ -71,3 +75,13 @@
  
 ## Lego
  * [Build online](https://www.buildwithchrome.com/)
+ 
+## Juggling
+ * [jugglers.ru](http://www.jugglers.ru/)
+ 
+## Gov stuff
+ * [Статистика долгов по ипотеке](http://www.cbr.ru/statistics/UDStat.aspx?TblID=4-11&pid=ipoteka&sid=ITM_7742)
+ 
+## Services
+ * [moguza.ru](http://moguza.ru/)
+ * [Gun shops in Ekb](http://gunshub.ru/shops/ekb/list)
