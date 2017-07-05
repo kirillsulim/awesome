@@ -6,6 +6,8 @@
 ### Common
  * [Google styleguides](https://github.com/google/styleguide)
  * [Become a Programmer, Motherf*cker](http://programming-motherfucker.com/become.html)
+ * [Cross-editor configuration](http://editorconfig.org/)
+ 
 
 ### Game development
  * [Rouge-like game hints](http://rlgclub.ru/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8)
