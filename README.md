@@ -87,3 +87,4 @@
 ## Services
  * [moguza.ru](http://moguza.ru/)
  * [Gun shops in Ekb](http://gunshub.ru/shops/ekb/list)
+ * [Rust jobs](https://rustjobs.rs/)
